@@ -1,6 +1,7 @@
-.png
-.txt
-.wav
+*.png
+*.txt
+*.wav
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
